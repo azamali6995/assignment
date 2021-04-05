@@ -1,9 +1,14 @@
 import React from 'react'
 
+import Navbar1 from './Component/Navbar1'
+
+
 export default function Home() {
   return (
     <div>
-      <h1>Home</h1>
+      
+      <Navbar1 />
+
     </div>
   )
 }
