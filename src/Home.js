@@ -6,6 +6,7 @@ import Ground3 from './Component/Ground3'
 import Button5 from './Component/Button5'
 import Work6 from './Component/Work6'
 import Waterfall11 from './Component/Waterfall11'
+import Deliver12 from './Component/Deliver12'
 
 export default function Home() {
   return (
@@ -17,6 +18,7 @@ export default function Home() {
       <Button5 />
       <Work6 />
       <Waterfall11 />
+      <Deliver12 />
 
     </div>
   )
