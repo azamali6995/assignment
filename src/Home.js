@@ -7,6 +7,7 @@ import Button5 from './Component/Button5'
 import Work6 from './Component/Work6'
 import Waterfall11 from './Component/Waterfall11'
 import Deliver12 from './Component/Deliver12'
+import Contact16 from './Component/Contact16'
 
 export default function Home() {
   return (
@@ -19,7 +20,8 @@ export default function Home() {
       <Work6 />
       <Waterfall11 />
       <Deliver12 />
-
+      <Contact16 />
+        
     </div>
   )
 }
