@@ -9,6 +9,7 @@ import Waterfall11 from './Component/Waterfall11'
 import Deliver12 from './Component/Deliver12'
 import Contact16 from './Component/Contact16'
 import Footer18 from './Component/Footer18'
+import Frame19 from './Component/Frame19'
 
 export default function Home() {
   return (
@@ -23,6 +24,7 @@ export default function Home() {
       <Deliver12 />
       <Contact16 />
       <Footer18 />  
+      <Frame19 />
     </div>
   )
 }
