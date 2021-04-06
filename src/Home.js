@@ -8,6 +8,7 @@ import Work6 from './Component/Work6'
 import Waterfall11 from './Component/Waterfall11'
 import Deliver12 from './Component/Deliver12'
 import Contact16 from './Component/Contact16'
+import Footer18 from './Component/Footer18'
 
 export default function Home() {
   return (
@@ -21,7 +22,7 @@ export default function Home() {
       <Waterfall11 />
       <Deliver12 />
       <Contact16 />
-        
+      <Footer18 />  
     </div>
   )
 }
