@@ -4,7 +4,7 @@ import Navbar1 from './Component/Navbar1'
 import Video2 from './Component/Video2'
 import Ground3 from './Component/Ground3'
 import Button5 from './Component/Button5'
-
+import Work6 from './Component/Work6'
 
 export default function Home() {
   return (
@@ -14,6 +14,8 @@ export default function Home() {
       <Video2 />  
       <Ground3 />
       <Button5 />
+      <Work6 />
+
     </div>
   )
 }
